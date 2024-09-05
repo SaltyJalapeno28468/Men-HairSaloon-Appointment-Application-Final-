@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/jump"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home_24"
+        />
+    <item android:id="@+id/data"
+        android:title="Appointment"
+        android:icon="@drawable/logo"/>
+    <item android:id="@+id/profile"
+        android:title="@string/profile"
+        android:icon="@drawable/user_adobe_express"/>
+
+</menu>

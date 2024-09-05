@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/history"
+        android:title="History"
+        android:icon="@drawable/medical_history"/>
+    <item android:id="@+id/dashboard"
+        android:title="Dashboard"
+        android:icon="@drawable/monitor"/>
+    <item android:id="@+id/profile"
+        android:title="Profile"
+        android:icon="@drawable/user_adobe_express"/>
+</menu>
